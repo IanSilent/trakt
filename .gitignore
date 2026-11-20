@@ -1,0 +1,12 @@
+.DS_Store
+.claude/
+dist/
+STATUS.md
+*.zip
+refs.html
+refs-characters.html
+compare.html
+gen/spritecook-assets.json
+gen/spritecook/attack.png
+gen/spritecook/hit.png
+gen/spritecook/idle.png
